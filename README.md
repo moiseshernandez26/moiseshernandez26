@@ -6,7 +6,6 @@ Software Engineer
 
 Hi there 👋 🔭 I'm Software Engineer and FullStack Developer 🌱 I'm looking to collaborate on Javascript based projects
 
-* 🌍  I'm based in Guadalajara, Jalisco
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting projects
 
