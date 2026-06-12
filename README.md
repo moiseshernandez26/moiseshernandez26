@@ -32,12 +32,12 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/moiseshernandez26"><img src="https://github-readme-stats.vercel.app/api?username=moiseshernandez26&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="moiseshernandez26's GitHub stats" /></a>
+<a href="https://github.com/moiseshernandez26"><img src="https://github-readme-stats.vercel.app/api?username=moiseshernandez26&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="moiseshernandez26's GitHub stats" /></a>
 
-<a href="http://www.github.com/moiseshernandez26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moiseshernandez26&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/moiseshernandez26"><img src="https://streak-stats.demolab.com/?user=moiseshernandez26&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/moiseshernandez26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseshernandez26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/moiseshernandez26/OceanAR-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=moiseshernandez26&repo=OceanAR-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/moiseshernandez26/JoltAPI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=moiseshernandez26&repo=JoltAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
